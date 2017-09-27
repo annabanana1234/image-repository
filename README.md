@@ -1,1 +1,1 @@
-# image-repository
+# image-alignment
